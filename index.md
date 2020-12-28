@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Pins and Needles](/Projects/PinsandNeedles)
+[Pins and Needles](/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
