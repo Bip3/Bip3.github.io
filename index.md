@@ -2,15 +2,15 @@
 
 ### Freelance Game Development
 
-[**Pins and Needles**](/Projects/PinsAndNeedles)
+[**Pins and Needles**](/PinsAndNeedles)
 <img src="images/PinsAndNeedles/TrailerSS.jpg" border="5"/> 
 
 ---
-[**Minesweeper for Nintendo Switch**](/Projects/PinsAndNeedles)
+[**Minesweeper for Nintendo Switch**](/Minesweeper)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[**Untitled Roguelike**](/Projects/Minesweeper)
+[**Untitled Roguelike**](/Minesweeper)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [**Untitled Arcade Shooter**](/Projects/PinsAndNeedles)
@@ -18,6 +18,15 @@
 
 ### Independent Game Development
 [**Finding The Way**](/Projects/PinsAndNeedles)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[**Target Blitz**](/Projects/PinsAndNeedles)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[**Just WallJump**](/Projects/PinsAndNeedles)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[**Insert Title Text Here**](/Projects/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Machine Learning

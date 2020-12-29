@@ -6,7 +6,7 @@
 
 ### Screenshots
 
-<img src="./images/PinsAndNeedles/Screenshot_2.png"/>
-<img src="./images/PinsAndNeedles/Screenshot_3.png"/>
-<img src="./images/PinsAndNeedles/Screenshot_6.png"/>
-<img src="./images/PinsAndNeedles/Screenshot_8.png"/>
+<img src="images/PinsAndNeedles/Screenshot_2.png"/>
+<img src="images/PinsAndNeedles/Screenshot_3.png"/>
+<img src="images/PinsAndNeedles/Screenshot_6.png"/>
+<img src="images/PinsAndNeedles/Screenshot_8.png"/>
