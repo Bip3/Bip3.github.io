@@ -3,10 +3,7 @@
 ### Freelance Game Development
 
 [**Pins and Needles**](/Projects/PinsAndNeedles)
-<img {
-	border: 5px solid #555;
-}
-src="images/PinsAndNeedles/TrailerSS.jpg"/> 
+<img src="images/PinsAndNeedles/TrailerSS.jpg"/> 
 
 ---
 [**Minesweeper for Nintendo Switch**](/Projects/PinsAndNeedles)
