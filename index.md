@@ -11,7 +11,7 @@
 
 ---
 [**Untitled Roguelike**](/Minesweeper)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
 
 [**Untitled Arcade Shooter**](/Projects/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
