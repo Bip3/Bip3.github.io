@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Pins and Needles](/PinsAndNeedles)
-<img src="images/PinsAndNeedles/TrailerSS.png"/>
+<img src="images/PinsAndNeedles/TrailerSS.jpg"/>
 
 ---
 [Minesweeper for Nintendo Switch](/pdf/sample_presentation.pdf)
