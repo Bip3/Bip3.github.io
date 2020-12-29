@@ -1,31 +1,28 @@
 ## Portfolio
 
+### Freelance Game Development
+
+[**Pins and Needles**](/Projects/PinsAndNeedles)
+<img src="images/PinsAndNeedles/TrailerSS.jpg"/> {
+	border: 5px solid #555;
+}
+
 ---
-
-### Category Name 1 
-
-[Pins and Needles](/PinsAndNeedles)
-<img src="images/PinsAndNeedles/TrailerSS.jpg"/>
-
----
-[Minesweeper for Nintendo Switch](/pdf/sample_presentation.pdf)
+[**Minesweeper for Nintendo Switch**](/Projects/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[**Untitled Roguelike**](/Projects/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+[**Untitled Arcade Shooter**](/Projects/PinsAndNeedles)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
+### Independent Game Development
+[**Finding The Way**](/Projects/PinsAndNeedles)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+### Machine Learning
 
 
 
