@@ -6,7 +6,7 @@
 
 ### Screenshots
 
-<img src="images/MineSweeper/Screenshot_1.png"/>
-<img src="images/MineSweeper/Screenshot_5.png"/>
-<img src="images/MineSweeper/Screenshot_3.png"/>
-<img src="images/MineSweeper/Screenshot_4.png"/>
+<img src="images/MineSweeper/Screenshot_1.png"/ border="5">
+<img src="images/MineSweeper/Screenshot_5.png"/ border="5">
+<img src="images/MineSweeper/Screenshot_3.png"/ border="5">
+<img src="images/MineSweeper/Screenshot_4.png"/ border="5">
