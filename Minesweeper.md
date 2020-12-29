@@ -6,7 +6,7 @@
 
 ### Screenshots
 
-<img src="images/Minesweeper/Screenshot_1.png"/>
-<img src="images/Minesweeper/Screenshot_5.png"/>
-<img src="images/Minesweeper/Screenshot_3.png"/>
-<img src="images/Minesweeper/Screenshot_4.png"/>
+<img src="images/MineSweeper/Screenshot_1.png"/>
+<img src="images/MineSweeper/Screenshot_5.png"/>
+<img src="images/MineSweeper/Screenshot_3.png"/>
+<img src="images/MineSweeper/Screenshot_4.png"/>
