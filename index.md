@@ -7,7 +7,7 @@
 
 ---
 [**Minesweeper for Nintendo Switch**](/Minesweeper)
-<img src="images/MineSweeper/Screenshot_2.png"/>
+<img src="images/MineSweeper/Screenshot_2.png" border="5"/>
 
 ---
 [**Untitled Roguelike**](/Minesweeper)
