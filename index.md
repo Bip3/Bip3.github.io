@@ -10,7 +10,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[**Untitled Roguelike**](/Projects/PinsAndNeedles)
+[**Untitled Roguelike**](/Projects/Minesweeper)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [**Untitled Arcade Shooter**](/Projects/PinsAndNeedles)
