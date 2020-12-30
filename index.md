@@ -10,7 +10,7 @@
 <img src="images/MineSweeper/Screenshot_2.png" border="5"/>
 
 ---
-[**Untitled Roguelike**](/LaboProj)
+[**Project Soul**](/UntitledRogueLike)
 <img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
 
 ---
