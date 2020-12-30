@@ -23,8 +23,8 @@
 
 ---
 
-[**Target Blitz**](/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+[**Target Blitz**](/TargetBlitz)
+<img src="images/TargetBlitz/Screenshot_1" border="5"/>
 
 ---
 
