@@ -10,8 +10,8 @@
 <img src="images/MineSweeper/Screenshot_2.png" border="5"/>
 
 ---
-[**Untitled Roguelike**](/Minesweeper)
-<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+[**Untitled Roguelike**](/LaboProj)
+<img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
 
 ---
 [**Untitled Arcade Shooter**](/Projects/PinsAndNeedles)
