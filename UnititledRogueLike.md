@@ -1,12 +1,10 @@
-## Minesweeper for Nintendo Switch
+## Project Soul
 
-**Project description:** Minesweeper for the Nintendo Switch is a 2D puzzle game in which the player combs a field of tiles for randomly placed bombs. Each clicked tile will tell the player how many mines are adjecent to the tile, so he or she can place markers on each and ever mine. Find all the mines and you win!
-
-**Tasks:** I was the sole programmer for Minesweeper for Nintendo Switch working concurrently with artists and sfx designers to assemble the project. I created the game architecture as well as designing intricate UI interfaces compatible with PC and Console controls. 
+**Project description:** This project is still in development. Its a 2D roguelike game set in Japan during the Edo period. It follows a pair of sibblings battling through enemies utilizing elemental abilities and weapons.
+**Tasks:** My task for this project was to construct the core game architecture, physics, and weapon mechanics. Much of the mobility was inspired by movement from the Super Smash Brothers Series and each weapon was created with a specific element in mind. Examples: A hammer that shudders the earth creating rows of spikes, shurikens exploding with rings of fire, or a whip generating gusts of wind to give the player a dash of mobility.
 
 ### Screenshots
 
-<img src="images/MineSweeper/Screenshot_1.png" border="5"/>
-<img src="images/MineSweeper/Screenshot_5.png" border="5"/>
-<img src="images/MineSweeper/Screenshot_3.png" border="5"/>
-<img src="images/MineSweeper/Screenshot_4.png" border="5"/>
+<img src="images/ProjectSoul/Movement.gif" border="5"/>
+<img src="images/MineSweeper/Rock Rapture.gif" border="5"/>
+<img src="images/MineSweeper/RPG.gif" border="5"/>
