@@ -14,8 +14,8 @@
 <img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
 
 ---
-[**Untitled Arcade Shooter**](/Projects/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+[**Nintendo Labo Project**](/LaboProj)
+<img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
 
 ### Independent Game Development
 [**Finding The Way**](/Projects/PinsAndNeedles)
