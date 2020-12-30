@@ -13,21 +13,30 @@
 [**Untitled Roguelike**](/Minesweeper)
 <img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
 
+---
 [**Untitled Arcade Shooter**](/Projects/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
 
 ### Independent Game Development
 [**Finding The Way**](/Projects/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+
+---
 
 [**Target Blitz**](/Projects/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+
+---
 
 [**Just WallJump**](/Projects/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+
+---
 
 [**Insert Title Text Here**](/Projects/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+
+---
 
 ### Machine Learning
 
