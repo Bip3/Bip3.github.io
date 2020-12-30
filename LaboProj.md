@@ -1,4 +1,4 @@
-## Minesweeper for Nintendo Switch
+## Nintendo Labo Project
 
 **Project description:** This was a short commisison to design enemy AI for a video game utilizing Nintendo Labo technologies. The game is in the style of a tower defense in which enemies attack fortresses one by one and the player must defend them by constructing physical defenses which are converted virtually.
 
