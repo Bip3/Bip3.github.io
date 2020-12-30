@@ -28,7 +28,7 @@
 
 ---
 
-[**Just WallJump**](/JustWalljump)
+[**Just WallJump**](/JustWallJump)
 <img src="images/JustWalljump/WalljumpCard.png" border="5"/>
 
 ---
