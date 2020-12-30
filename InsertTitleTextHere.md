@@ -7,6 +7,5 @@
 
 <img src="images/InsertTitleTextHere/Gif.gif" border="5"/>
 <img src="images/InsertTitleTextHere/SS2.png" border="5"/>
-<img src="images/InsertTitleTextHere/SS3.png" border="5"/>
 <img src="images/InsertTitleTextHere/SS1.png" border="5"/>
 
