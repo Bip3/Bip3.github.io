@@ -11,7 +11,7 @@
 
 ---
 [**Project Soul**](/UntitledRogueLike)
-<img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
+<img src="images/ProjectSoul/ProjectSoul.png" border="5"/>
 
 ---
 [**Nintendo Labo Project**](/LaboProj)
