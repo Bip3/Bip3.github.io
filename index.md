@@ -10,7 +10,7 @@
 <img src="images/MineSweeper/Screenshot_2.png" border="5"/>
 
 ---
-[**Project Soul**](/UnititledRogueLike)
+[**Project Soul**](/UntitledRogueLike)
 <img src="images/ProjectSoul/ProjectSoul.png" border="5"/>
 
 ---
@@ -18,22 +18,22 @@
 <img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
 
 ### Independent Game Development
-[**Finding The Way**](/Projects/PinsAndNeedles)
+[**Finding The Way**](/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
 
 ---
 
-[**Target Blitz**](/Projects/PinsAndNeedles)
+[**Target Blitz**](/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
 
 ---
 
-[**Just WallJump**](/Projects/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+[**Just WallJump**](/JustWalljump)
+<img src="images/JustWalljump/WalljumpCard.png" border="5"/>
 
 ---
 
-[**Insert Title Text Here**](/Projects/PinsAndNeedles)
+[**Insert Title Text Here**](/PinsAndNeedles)
 <img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
 
 ---
