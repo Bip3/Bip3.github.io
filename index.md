@@ -34,7 +34,7 @@
 ---
 
 [**Insert Title Text Here**](/InsertTitleTextHere)
-<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+<img src="images/InsertTitleTextHere/Title.png" border="5"/>
 
 ---
 
