@@ -18,8 +18,8 @@
 <img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
 
 ### Independent Game Development
-[**Finding The Way**](/PinsAndNeedles)
-<img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
+[**Finding The Way**](/FindingTheWay)
+<img src="images/FindingTheWay/Title.png" border="5"/>
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-[**Insert Title Text Here**](/PinsAndNeedles)
+[**Insert Title Text Here**](/InsertTitleTextHere)
 <img src="images/dummy_thumbnail.jpg?raw=true" border="5"/>
 
 ---
