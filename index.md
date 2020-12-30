@@ -17,7 +17,10 @@
 [**Nintendo Labo Project**](/LaboProj)
 <img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
 
+---
+
 ### Independent Game Development
+
 [**Finding The Way**](/FindingTheWay)
 <img src="images/FindingTheWay/Title.png" border="5"/>
 
