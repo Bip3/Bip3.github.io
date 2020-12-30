@@ -24,7 +24,7 @@
 ---
 
 [**Target Blitz**](/TargetBlitz)
-<img src="images/TargetBlitz/Screenshot_1.png" border="5"/>
+<img src="images/TargetBlitz/Title.png" border="5"/>
 
 ---
 
