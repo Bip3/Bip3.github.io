@@ -10,7 +10,7 @@
 <img src="images/MineSweeper/Screenshot_2.png" border="5"/>
 
 ---
-[**Project Soul**](/UntitledRogueLike)
+[**Project Soul**](/UnititledRogueLike)
 <img src="images/ProjectSoul/ProjectSoul.png" border="5"/>
 
 ---
