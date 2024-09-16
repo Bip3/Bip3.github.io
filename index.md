@@ -1,5 +1,8 @@
 ## Portfolio
 
+### School Assignments
+[**CS-506**](/Assignments)
+
 ### Freelance Game Development
 
 [**Pins and Needles**](/PinsAndNeedles)
