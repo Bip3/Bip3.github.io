@@ -6,4 +6,10 @@
 
 **Assignment 3:** 
 [Github](https://github.com/Bip3/HW3/tree/master)
+
+**Assignment 4:**
+[Github](https://github.com/Bip3/Aking03-assignment-4)
+
+**Assignment 5:**
+[Github](https://github.com/Bip3/Aking03-assignment-5)
   
