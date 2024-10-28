@@ -12,4 +12,6 @@
 
 **Assignment 5:**
 [Github](https://github.com/Bip3/Aking03-assignment-5)
-  
+
+**Midterm:**
+[Github](https://github.com/Bip3/Midterm-Aking03)
