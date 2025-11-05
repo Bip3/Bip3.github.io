@@ -19,7 +19,3 @@
 **Assignment 7:**
 [Github](https://github.com/Bip3/Aking03-assignment-7)
 [Video](https://youtu.be/RWquhj5JSjg)
-
-**Assignment 8:**
-[Github](https://github.com/Bip3/Aking03-assignment-8)
-[Video](https://youtu.be/NwZ8tyf9pws)
