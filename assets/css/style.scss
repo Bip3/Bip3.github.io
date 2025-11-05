@@ -1,0 +1,273 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Cutesy Portfolio Design */
+
+/* Color Palette - Soft Pastels */
+:root {
+  --primary-pink: #FFB6C1;
+  --soft-lavender: #E6E6FA;
+  --mint-green: #B0E0C9;
+  --peach: #FFE5B4;
+  --sky-blue: #B0E0E6;
+  --cream: #FFFDD0;
+  --text-dark: #5A5A5A;
+  --white: #FFFFFF;
+}
+
+/* Overall page styling */
+body {
+  background: linear-gradient(135deg, var(--cream) 0%, var(--soft-lavender) 100%);
+  color: var(--text-dark);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+/* Header styling */
+header {
+  background: var(--white);
+  border-radius: 25px;
+  padding: 30px !important;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  margin-bottom: 30px;
+  border: 3px solid var(--primary-pink);
+}
+
+header h1 {
+  color: var(--primary-pink);
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 4px rgba(255, 182, 193, 0.3);
+}
+
+header p {
+  color: var(--text-dark);
+  font-size: 1.1em;
+}
+
+header a {
+  color: var(--primary-pink);
+  text-decoration: none;
+  border-bottom: 2px dotted var(--primary-pink);
+  transition: all 0.3s ease;
+}
+
+header a:hover {
+  color: var(--soft-lavender);
+  border-bottom-color: var(--soft-lavender);
+  transform: translateY(-2px);
+}
+
+/* Main content wrapper */
+.wrapper {
+  background: var(--white);
+  border-radius: 25px;
+  padding: 40px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border: 3px solid var(--mint-green);
+}
+
+section {
+  background: transparent;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-pink);
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 2em;
+  border-bottom: 3px solid var(--mint-green);
+  padding-bottom: 10px;
+  display: inline-block;
+}
+
+h2 {
+  font-size: 1.7em;
+  color: var(--soft-lavender);
+}
+
+h3 {
+  font-size: 1.3em;
+  color: var(--mint-green);
+}
+
+/* Links */
+a {
+  color: var(--primary-pink);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+a:hover {
+  color: var(--soft-lavender);
+  transform: translateY(-2px);
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  height: 3px;
+  background: linear-gradient(to right, var(--primary-pink), var(--soft-lavender), var(--mint-green));
+  border-radius: 5px;
+  margin: 30px 0;
+}
+
+/* Images */
+img {
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 3px solid var(--peach) !important;
+  max-width: 100%;
+  height: auto;
+}
+
+img:hover {
+  transform: scale(1.03) rotate(1deg);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Buttons and navigation */
+button, .btn {
+  background: linear-gradient(135deg, var(--primary-pink), var(--soft-lavender));
+  color: var(--white);
+  border: none;
+  border-radius: 25px;
+  padding: 12px 30px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+button:hover, .btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Code blocks */
+code {
+  background: var(--peach);
+  padding: 2px 6px;
+  border-radius: 5px;
+  color: var(--text-dark);
+  font-size: 0.9em;
+}
+
+pre {
+  background: var(--peach);
+  padding: 15px;
+  border-radius: 15px;
+  border: 2px solid var(--primary-pink);
+  overflow-x: auto;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 20px;
+}
+
+li {
+  margin: 10px 0;
+  color: var(--text-dark);
+}
+
+/* Project cards styling */
+p {
+  margin: 15px 0;
+  color: var(--text-dark);
+}
+
+/* Strong/Bold text */
+strong {
+  color: var(--primary-pink);
+  font-weight: 600;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 5px solid var(--primary-pink);
+  background: var(--cream);
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  font-style: italic;
+}
+
+/* Footer styling */
+footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 3px solid var(--mint-green);
+  text-align: center;
+  color: var(--text-dark);
+}
+
+/* Small screen adjustments */
+@media (max-width: 768px) {
+  header {
+    padding: 20px !important;
+  }
+
+  .wrapper {
+    padding: 20px;
+  }
+
+  header h1 {
+    font-size: 1.8em;
+  }
+}
+
+/* Navigation menu styling */
+nav {
+  margin: 20px 0;
+  text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  margin: 10px 15px;
+  padding: 10px 25px;
+  background: linear-gradient(135deg, var(--mint-green), var(--sky-blue));
+  color: var(--white);
+  border-radius: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+nav a:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Add cute decorative elements */
+h2::before {
+  content: "✨ ";
+}
+
+h2::after {
+  content: " ✨";
+}
+
+/* Project section styling */
+.project-section {
+  margin: 30px 0;
+  padding: 20px;
+  background: linear-gradient(135deg, var(--cream) 0%, var(--white) 100%);
+  border-radius: 20px;
+  border: 2px solid var(--sky-blue);
+}

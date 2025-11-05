@@ -1,50 +1,54 @@
-## Portfolio
+## Welcome to My Portfolio!
 
-### School Assignments
-[**CS-506**](/Assignments)
+Hi there! I'm a software engineer passionate about game development and data science.
 
-### Freelance Game Development
-
-[**Pins and Needles**](/PinsAndNeedles)
-<img src="images/PinsAndNeedles/TrailerSS.jpg" border="5"/> 
+Explore my work through the sections below:
 
 ---
-[**Minesweeper for Nintendo Switch**](/Minesweeper)
+
+<nav>
+<a href="/GameProjects">Game Development Projects</a>
+<a href="/SchoolProjects">School Projects</a>
+</nav>
+
+---
+
+### Featured Projects
+
+#### Game Development Highlights
+
+Check out some of my favorite game projects:
+
+[**Pins and Needles**](/PinsAndNeedles) - A 2D platformer with unique mechanics
+
+<img src="images/PinsAndNeedles/TrailerSS.jpg" border="5"/>
+
+---
+
+[**Minesweeper for Nintendo Switch**](/Minesweeper) - Classic puzzle game reimagined
+
 <img src="images/MineSweeper/Screenshot_2.png" border="5"/>
 
 ---
-[**Project Soul**](/UntitledRogueLike)
+
+[**Project Soul**](/UntitledRogueLike) - Roguelike adventure with procedural generation
+
 <img src="images/ProjectSoul/ProjectSoul.png" border="5"/>
 
 ---
-[**Nintendo Labo Project**](/LaboProj)
-<img src="images/NintendoLabo/Screenshot_6.png" border="5"/>
+
+[View All Game Projects →](/GameProjects)
 
 ---
 
-### Independent Game Development
+### About Me
 
-[**Finding The Way**](/FindingTheWay)
-<img src="images/FindingTheWay/Title.png" border="5"/>
+I'm a software engineer with experience in:
+- Game Development (Unity, C#)
+- Data Science & Machine Learning
+- Full-Stack Development
 
----
-
-[**Target Blitz**](/TargetBlitz)
-<img src="images/TargetBlitz/Title.png" border="5"/>
-
----
-
-[**Just WallJump**](/JustWallJump)
-<img src="images/JustWalljump/WalljumpCard.png" border="5"/>
-
----
-
-[**Insert Title Text Here**](/InsertTitleTextHere)
-<img src="images/InsertTitleTextHere/Title.png" border="5"/>
-
----
-
-### Machine Learning
+[View My School Projects →](/SchoolProjects)
 
 
 
