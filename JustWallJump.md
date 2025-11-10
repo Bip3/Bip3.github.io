@@ -4,11 +4,11 @@
 
 ### About This Project
 
-Just WallJump is a mobile 2D action platformer following the walljumper ninja traversing obstacles by jumping from wall to wall up a vertical tower.
+Just WallJump is a mobile 2D action platformer following the walljumper ninja traversing obstacles by jumping from wall to wall up a vertical tower. The game includes a global leaderboard system, served advertisements, and procedurally generated obstacles.
 
 ### My Role
 
-Just WallJump was one of my first independent projects outside of freelance. I initiated the project to learn more about networking by creating an online leaderboard, but it quickly escalated as I saw more potential.
+Just WallJump was one of my first independent projects outside of freelance. I initiated the project to learn more about networking by creating an online leaderboard, but it quickly escalated into a full IOS and Android release.
 
 I was the sole programmer for the project, responsible for:
 
@@ -18,7 +18,7 @@ I was the sole programmer for the project, responsible for:
 - Online Leaderboard Integration
 
 I also collaborated with:
-- Pixel artists for environment and character design
+- Artists for environment and character design
 - Composer for the game's soundtrack
 
 ### Screenshots

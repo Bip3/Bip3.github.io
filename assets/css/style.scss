@@ -22,24 +22,25 @@ body {
   background: linear-gradient(135deg, var(--cream) 0%, var(--soft-lavender) 100%);
   color: var(--text-dark);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
+  line-height: 1.8;
+  margin: 0 10vw;
+  padding: 20px 0;
 }
 
 /* Header styling */
 header {
   background: var(--white);
-  border-radius: 25px;
+  border-radius: 10px;
   padding: 30px !important;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   margin-bottom: 30px;
-  border: 3px solid var(--primary-pink);
+  border: 1px solid var(--primary-pink);
 }
 
 header h1 {
   color: var(--primary-pink);
   font-size: 2.5em;
   margin-bottom: 10px;
-  text-shadow: 2px 2px 4px rgba(255, 182, 193, 0.3);
 }
 
 header p {
@@ -57,16 +58,16 @@ header a {
 header a:hover {
   color: var(--soft-lavender);
   border-bottom-color: var(--soft-lavender);
-  transform: translateY(-2px);
 }
 
 /* Main content wrapper */
 .wrapper {
   background: var(--white);
-  border-radius: 25px;
+  border-radius: 10px;
   padding: 40px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-  border: 3px solid var(--mint-green);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(176, 224, 201, 0.3);
+  max-width: 100%;
 }
 
 section {
@@ -75,81 +76,79 @@ section {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: var(--primary-pink);
-  margin-top: 30px;
-  margin-bottom: 15px;
+  color: var(--text-dark);
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  line-height: 1.3;
 }
 
 h1 {
-  font-size: 2em;
-  border-bottom: 3px solid var(--mint-green);
-  padding-bottom: 10px;
-  display: inline-block;
+  font-size: 2.2em;
+  color: var(--primary-pink);
+  margin-bottom: 20px;
 }
 
 h2 {
-  font-size: 1.7em;
-  color: var(--soft-lavender);
+  font-size: 1.8em;
+  color: var(--primary-pink);
+  margin-top: 50px;
 }
 
 h3 {
-  font-size: 1.3em;
-  color: var(--mint-green);
+  font-size: 1.4em;
+  color: var(--text-dark);
+}
+
+h4 {
+  font-size: 1.2em;
+  color: var(--text-dark);
 }
 
 /* Links */
 a {
   color: var(--primary-pink);
   text-decoration: none;
-  transition: all 0.3s ease;
-  position: relative;
+  transition: color 0.2s ease;
 }
 
 a:hover {
   color: var(--soft-lavender);
-  transform: translateY(-2px);
 }
 
 /* Horizontal rules */
 hr {
   border: none;
-  height: 3px;
-  background: linear-gradient(to right, var(--primary-pink), var(--soft-lavender), var(--mint-green));
-  border-radius: 5px;
-  margin: 30px 0;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.1);
+  margin: 40px 0;
 }
 
 /* Images */
 img {
-  border-radius: 15px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border: 3px solid var(--peach) !important;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
   max-width: 100%;
   height: auto;
-}
-
-img:hover {
-  transform: scale(1.03) rotate(1deg);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  margin: 20px 0;
 }
 
 /* Buttons and navigation */
 button, .btn {
-  background: linear-gradient(135deg, var(--primary-pink), var(--soft-lavender));
+  background: var(--primary-pink);
   color: var(--white);
   border: none;
-  border-radius: 25px;
+  border-radius: 6px;
   padding: 12px 30px;
   font-size: 1em;
   cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: background 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 button:hover, .btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  background: var(--soft-lavender);
 }
 
 /* Code blocks */
@@ -176,18 +175,21 @@ pre code {
 
 /* Lists */
 ul, ol {
-  margin-left: 20px;
+  margin: 20px 0 20px 30px;
+  line-height: 1.8;
 }
 
 li {
-  margin: 10px 0;
+  margin: 12px 0;
   color: var(--text-dark);
 }
 
-/* Project cards styling */
+/* Paragraph styling */
 p {
-  margin: 15px 0;
+  margin: 20px 0;
   color: var(--text-dark);
+  line-height: 1.8;
+  max-width: 800px;
 }
 
 /* Strong/Bold text */
@@ -217,57 +219,67 @@ footer {
 
 /* Small screen adjustments */
 @media (max-width: 768px) {
+  body {
+    margin: 0 5vw;
+    padding: 15px 0;
+  }
+
   header {
     padding: 20px !important;
   }
 
   .wrapper {
-    padding: 20px;
+    padding: 25px;
   }
 
   header h1 {
     font-size: 1.8em;
   }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    margin-top: 35px;
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
 }
 
 /* Navigation menu styling */
 nav {
-  margin: 20px 0;
+  margin: 30px 0;
   text-align: center;
 }
 
 nav a {
   display: inline-block;
   margin: 10px 15px;
-  padding: 10px 25px;
-  background: linear-gradient(135deg, var(--mint-green), var(--sky-blue));
-  color: var(--white);
-  border-radius: 20px;
+  padding: 12px 28px;
+  background: var(--mint-green);
+  color: var(--text-dark);
+  border-radius: 6px;
   font-weight: 600;
   text-decoration: none;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: background 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
 }
 
 nav a:hover {
-  transform: translateY(-3px) scale(1.05);
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  background: var(--sky-blue);
 }
 
-/* Add cute decorative elements */
-h2::before {
-  content: "✨ ";
-}
-
-h2::after {
-  content: " ✨";
-}
 
 /* Project section styling */
 .project-section {
   margin: 30px 0;
   padding: 20px;
-  background: linear-gradient(135deg, var(--cream) 0%, var(--white) 100%);
-  border-radius: 20px;
-  border: 2px solid var(--sky-blue);
+  background: var(--white);
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }

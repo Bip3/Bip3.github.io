@@ -4,7 +4,7 @@
 
 ### About This Project
 
-Insert Title Text Here is a 2D platformer with advanced movement mechanics. Control an untitled player navigating through the world of limbo, where the player is unable to see themselves and the incoming obstacles concurrently.
+Insert Title Text Here is a 2D platformer with advanced movement mechanics. Control an untitled player navigating through the world of limbo, where the player is unable to see themselves and the incoming obstacles concurrently. World Building and instruction are handled through an omnipotent, philosophy loving narrator.
 
 ### My Role
 
@@ -16,6 +16,8 @@ Insert Title Text Here was a submission to the Ludum Dare Game Jam competition a
 - Physics System
 - Game Architecture
 - UI Development
+
+The game was heavily inspired by Getting Over it with Bennet Foddy.
 
 ### Screenshots
 
